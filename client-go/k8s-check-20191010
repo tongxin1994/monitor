@@ -1,0 +1,14 @@
+*********************************admin.conf*************************************
+                  Summary                     
+┌────────────┬──────────────┬────────────────┐
+│            │     Total    │ Running(Active)│
+├────────────┼──────────────┼────────────────┤
+│   Nodes    │        1     │      0/1       │
+├────────────┼──────────────┼────────────────┤
+│   Pods     │        9     │      8/9       │
+└────────────┴──────────────┴────────────────┘
+                  Details                     
+Node not Ready details:
+Name: matebook, ip: 192.168.43.137, Events: Kubelet stopped posting node status. 
+Pod not Running details: 
+Name: aaa-68f7c85db5-dbfsm, Namespace: default, node: , Status: Pending 

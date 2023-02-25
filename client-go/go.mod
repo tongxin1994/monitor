@@ -9,7 +9,6 @@ require (
 	github.com/gregjones/httpcache v0.0.0-20190611155906-901d90724c79 // indirect
 	github.com/imdario/mergo v0.3.7 // indirect
 	github.com/json-iterator/go v1.1.7 // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/peterbourgon/diskv v2.0.1+incompatible // indirect
 	github.com/spf13/pflag v1.0.5 // indirect
 	golang.org/x/crypto v0.0.0-20190927123631-a832865fa7ad // indirect
@@ -17,8 +16,6 @@ require (
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	k8s.io/api v0.0.0-20190202010724-74b699b93c15
-	k8s.io/apimachinery v0.0.0-20190117220443-572dfc7bdfcb
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v0.0.0-20181204000744-e64494209f55
-	k8s.io/utils v0.0.0-20190923111123-69764acb6e8e // indirect
-	sigs.k8s.io/yaml v1.1.0 // indirect
 )
